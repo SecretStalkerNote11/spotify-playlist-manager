@@ -1,0 +1,7 @@
+# Dependencies for Spotify Playlist Manager (C#/.NET)
+# Use 'dotnet restore' to install packages
+
+SpotifyAPI.Web >= 7.1.1
+SpotifyAPI.Web.Auth >= 7.1.1
+Moq >= 4.18.4 (test only)
+xunit >= 2.6.1 (test only)
